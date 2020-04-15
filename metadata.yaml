@@ -1,0 +1,31 @@
+_repo: The-Thirteenth-Hussars-in-the-Great-War_61769
+_version: 0.0.1
+alternative_title: The 13th Hussars in the Great War
+creator:
+  author:
+    agent_name: Durand, H. Mortimer (Henry Mortimer)
+    aliases:
+    - Durand, Henry Mortimer, Sir
+    - Durand, Mortimer
+    birthdate: 1850
+    deathdate: 1924
+    gutenberg_agent_id: '51604'
+    url: http://www.gutenberg.org/2009/agents/51604
+    wikipedia: https://en.wikipedia.org/wiki/Mortimer_Durand
+description: ''
+gutenberg_issued: '2020-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61769'
+  lccn: '21015653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. Hussars, 13th'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- GITenberg
+title: The Thirteenth Hussars in the Great War
+url: http://www.gutenberg.org/ebooks/61769
